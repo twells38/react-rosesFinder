@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-rosesFinder/static/css/main.756742f8.chunk.css",
+    "main.js": "/react-rosesFinder/static/js/main.b38fec37.chunk.js",
+    "main.js.map": "/react-rosesFinder/static/js/main.b38fec37.chunk.js.map",
+    "runtime-main.js": "/react-rosesFinder/static/js/runtime-main.6c949aba.js",
+    "runtime-main.js.map": "/react-rosesFinder/static/js/runtime-main.6c949aba.js.map",
+    "static/css/2.f2512455.chunk.css": "/react-rosesFinder/static/css/2.f2512455.chunk.css",
+    "static/js/2.b09d1d58.chunk.js": "/react-rosesFinder/static/js/2.b09d1d58.chunk.js",
+    "static/js/2.b09d1d58.chunk.js.map": "/react-rosesFinder/static/js/2.b09d1d58.chunk.js.map",
+    "static/js/3.32545c36.chunk.js": "/react-rosesFinder/static/js/3.32545c36.chunk.js",
+    "static/js/3.32545c36.chunk.js.map": "/react-rosesFinder/static/js/3.32545c36.chunk.js.map",
+    "index.html": "/react-rosesFinder/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/react-rosesFinder/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.756742f8.chunk.css.map": "/react-rosesFinder/static/css/main.756742f8.chunk.css.map",
+    "static/js/2.b09d1d58.chunk.js.LICENSE.txt": "/react-rosesFinder/static/js/2.b09d1d58.chunk.js.LICENSE.txt",
+    "static/media/rose1.41c6a4ae.jpg": "/react-rosesFinder/static/media/rose1.41c6a4ae.jpg",
+    "static/media/rose2.2df29419.jpg": "/react-rosesFinder/static/media/rose2.2df29419.jpg",
+    "static/media/rose3.0e9692f9.jpg": "/react-rosesFinder/static/media/rose3.0e9692f9.jpg",
+    "static/media/rose4.c797b000.jpg": "/react-rosesFinder/static/media/rose4.c797b000.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c949aba.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.b09d1d58.chunk.js",
+    "static/css/main.756742f8.chunk.css",
+    "static/js/main.b38fec37.chunk.js"
+  ]
+}
